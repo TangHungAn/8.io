@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYRE html>
+<head>
+  <title>陳彥婷Tiffany</title>
+  </head>
+  <body bgcolor="#FFFFE0">
 
-You can use the [editor on GitHub](https://github.com/TangHungAn/8.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TangHungAn/8.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <h1 align="center">
+    <font face="標楷體">
+      <font size=12>
+      -陳彥婷Tiffany-   </font>  <a href="https://y0112.github.io/firstpage.io/" target="_blank"><img src="https://i.imgur.com/PHi3HSK.png" width="50" heigh="50"></a>回首頁
+        
+        </font>
+  </h1>                                
+    <pre>
+                                                                                                                              
+    </pre>
+    <pre>
+   <img src="https://buzzorange.com/vidaorange/wp-content/uploads/sites/3/2018/09/37610fea-9e5a-4a7d-883c-6694b3f62d5c.webp?jpg" width="600" heigh="600">       <img src="https://blog.kolradar.com/wp-content/uploads/2019/07/kol-intro.b63b578.jpg" align="center" width="700" heigh="600">
+    </pre>
+    <pre>                                                                                                 
+    <blink>
+      <font size=5.5> 
+      YouTube 頻道「陳彥婷」分享了許多與「穿搭」、「情侶大小事」、		       <a href="https://www.facebook.com/thetiffanychen/" target="_blank"><img src="https://i.imgur.com/BJ8Xl3S.png" width="100" heigh="100"></a>陳彥婷Tiffany臉書
+      「寵物」、「保養」、「開箱」、「旅遊」相關主題的趣味影片。		               <a href="https://www.instagram.com/thetiffanychen/?hl=zh-tw" target="_blank"><img src="https://images-ext-1.discordapp.net/external/WALYXnly3XlMxh5gDaZdUjapyCtBt21j6xh1VCiFGQM/https/i.imgur.com/Jc87zsX.png?width=603&height=599" width="100" heigh="100"></a>陳彥婷TiffanyInstagram
+      頻道主題多元且生活化，容易引起大家的共鳴，				   	<a href="https://www.youtube.com/channel/UC5g6Y9boEjLQEFCQckpNOnw" target="_blank"><img src="https://i.imgur.com/cLQ5xmC.png" width="100" heigh="100"></a>陳彥婷TiffanyYoutube 
+      吸引許多學生和年輕上班族粉絲的關注，特別是有在關注小隻女孩穿搭的族群。                                                      
+      </font>
+      </blink>
+    </pre>
+	  <span><iframe align="right"width="470" height="300"  src="https://www.youtube.com/embed/Oy_h4jl3AJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+	  <span><iframe align="right"width="470" height="300"  src="https://www.youtube.com/embed/aOmZdNNF7Jk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+	  <span><iframe align="right"width="470" height="300"  src="https://www.youtube.com/embed/Xld0Bg_r8gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+	
